@@ -1,0 +1,53 @@
+
+
+
+.contentSearch{
+    height: 156px;
+    background-color: #3e57db;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
+
+.prueba > h1{
+
+    color: white;
+    font-size: 16px;
+    font-family:  sans-serif;
+
+
+}
+
+.prueba > h3{
+
+    font-family: sans-serif;
+    color: white;
+    opacity: 0.8;
+    font-size: 13.3333px;
+    margin: 5px 0px 20px;
+
+}
+.prueba{
+
+    padding: 30px 20px;
+
+
+}
+  
+.inputSearch{
+
+    padding: 10px 15px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 50px;
+    border: 0;
+    font-size: 14px;
+    width: 100%;
+    color: #fff;
+
+}
+
+.inputSearch:focus{
+
+outline: none;
+
+}
